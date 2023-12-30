@@ -2,7 +2,7 @@
 
 ## Link
 
-https://zsolt-nagy.github.io/js-szamkitalalo/
+<a href="https://zsolt-nagy.github.io/js-szamkitalalo/" target="_blank">https://zsolt-nagy.github.io/js-szamkitalalo/</a>
 
 ## Leírás
 
